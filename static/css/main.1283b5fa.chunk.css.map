@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/course/navbar.css"],"names":[],"mappings":"AAAA,OACI,cAAe,CACf,uBAEJ","file":"main.1283b5fa.chunk.css","sourcesContent":[".brand{\n    font-size: 30px;\n    color: royalblue !important;\n  \n}"]}
