@@ -1,0 +1,50 @@
+export const CardData=[
+    {    
+        id:'0',
+        bgcolor:'primary',
+        img:"https://picsum.photos/200/300",
+        title:'HTML',
+        text:'This card has supporting text below as a natural lead-in to addition',
+        btncolor:'success',
+    },
+    {
+        id:'1',
+        bgcolor:'secondary',
+        img:"https://picsum.photos/200/300",
+        title:'title2',
+        text:'This card has supporting text below as a natural lead-in to addition',
+        btncolor:'success',
+    },
+    {
+        id:'2',
+        bgcolor:'danger',
+        img:"https://picsum.photos/200/300",
+        title:'title3',
+        text:'This card has supporting text below as a natural lead-in to addition',
+        btncolor:'success',
+    },
+    {
+        id:'3',
+        bgcolor:'danger',
+        img:"https://picsum.photos/200/300",
+        title:'title3',
+        text:'This card has supporting text below as a natural lead-in to addition',
+        btncolor:'success',
+    },
+    {
+        id:'4',
+        bgcolor:'danger',
+        img:"https://picsum.photos/200/300",
+        title:'title3',
+        text:'This card has supporting text below as a natural lead-in to addition',
+        btncolor:'success',
+    },
+    {
+        id:'5',
+        bgcolor:'danger',
+        img:"https://picsum.photos/200/300",
+        title:'title3',
+        text:'This card has supporting text below as a natural lead-in to addition',
+        btncolor:'success',
+    }
+]
